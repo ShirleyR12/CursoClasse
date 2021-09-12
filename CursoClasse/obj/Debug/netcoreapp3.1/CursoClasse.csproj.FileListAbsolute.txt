@@ -1,0 +1,11 @@
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\bin\Debug\netcoreapp3.1\CursoClasse.exe
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\bin\Debug\netcoreapp3.1\CursoClasse.deps.json
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\bin\Debug\netcoreapp3.1\CursoClasse.runtimeconfig.json
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\bin\Debug\netcoreapp3.1\CursoClasse.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\bin\Debug\netcoreapp3.1\CursoClasse.dll
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\bin\Debug\netcoreapp3.1\CursoClasse.pdb
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\obj\Debug\netcoreapp3.1\CursoClasse.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\obj\Debug\netcoreapp3.1\CursoClasse.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\obj\Debug\netcoreapp3.1\CursoClasse.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\obj\Debug\netcoreapp3.1\CursoClasse.dll
+C:\Users\Pichau\source\repos\CursoClasse\CursoClasse\obj\Debug\netcoreapp3.1\CursoClasse.pdb
